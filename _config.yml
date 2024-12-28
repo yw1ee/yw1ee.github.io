@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: yw1ee  # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 아무거나 올리기 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Post anything I study
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -28,21 +28,16 @@ url: "https://yw1ee.github.io"
 github:
   username: yw1ee # change to your GitHub username
 
-twitter:
-  username: # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Yonwgoo Lee 
+  name: Yongwoo Lee 
   email: gofl0306@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/yw1ee # change to your GitHub homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
-
+    - https://github.com/yw1ee
+    - https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+    
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
@@ -97,7 +92,7 @@ theme_mode: # [light | dark]
 cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: "/assets/img/favicon/favicon.ico"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
